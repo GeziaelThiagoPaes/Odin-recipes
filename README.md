@@ -1,6 +1,6 @@
 # odin-recipes
-Com tamanha felicidade estou iniciando a minha jornada no desenvolvimento web. 
-O desafio foi:
-- Criar páginas de receitas com os conhecimentos aprendidos no decorrer dos estudos, sendo utilizado para realizar as atividades
-listas ordenadas e não ordenadas, imagens, títulos e paragráfos.
-# #Vamos continuar aprendendo
+With such happiness I am starting my journey in web development.
+The challenge was:
+- Create recipe pages with the knowledge learned during the studies, being used to carry out the activities
+ordered and unordered lists, images, titles and paragraphs.
+# #Let's keep learning.
